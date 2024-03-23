@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">I am a passionate full stack developer based in Morocco 🇲🇦. With a strong background in both front-end and back-end development, I strive to create innovative and user-friendly solutions for various projects.</h3>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aennaqad" alt="aennaqad's 42 stats" /></a>
+<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aennaqad" alt="aennaqad's 42 stats" /></a>
 <p align="left"> <a href="https://twitter.com/aymaneennaqadi" target="blank"><img src="https://img.shields.io/twitter/follow/aymaneennaqadi?logo=twitter&style=for-the-badge" alt="aymane_ennaqadi" /></a> </p>
 
 - 🌱 I’m currently learning **.net and c (programmig) ,english course**
