@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manox96&label=Profile%20views&color=0e75b6&style=flat" alt="manox96" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aymane_ennaqadi" target="blank"><img src="https://img.shields.io/twitter/follow/aymane_ennaqadi?logo=twitter&style=for-the-badge" alt="aymane_ennaqadi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aymane_ennaqadi" target="blank"><img src="https://img.shields.io/twitter/follow/aymaneennaqadi?logo=twitter&style=for-the-badge" alt="aymane_ennaqadi" /></a> </p>
 
 - 🌱 I’m currently learning **.net and c (programmig) ,english course**
 
