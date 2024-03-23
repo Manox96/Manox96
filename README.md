@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFnbHczY2U4NWlzdTEwbDJ5NXBnM2Zqazlma3R1em9xNG90OHZxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="500"/>
 </div>
 
-<h3 align="center">A passionate full stack developer based in morroco 🇲🇦</h3>
+<h3 align="center">I am a passionate full stack developer based in Morocco 🇲🇦. With a strong background in both front-end and back-end development, I strive to create innovative and user-friendly solutions for various projects.</h3>
 
 <p align="left"> <a href="https://twitter.com/aymaneennaqadi" target="blank"><img src="https://img.shields.io/twitter/follow/aymaneennaqadi?logo=twitter&style=for-the-badge" alt="aymane_ennaqadi" /></a> </p>
 
