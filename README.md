@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aymaneennaqadi20@gmail.com**
 
-- 📄 IG: [@aymane_enq]([aymane_enq](https://www.instagram.com/aymane_enq/))
+- 📄 IG: [@aymane_enq](https://www.instagram.com/aymane_enq/)
 
 - ⚡ Fun fact **i like press button**
 
