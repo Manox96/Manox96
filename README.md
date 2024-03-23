@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ennaqadi Aymane</h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFnbHczY2U4NWlzdTEwbDJ5NXBnM2Zqazlma3R1em9xNG90OHZxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3UzMTUwdmNhaDF6dTY2dDVhcDY3emt4am1id290MDc2eG50eG9qeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yBvndlpq8aCvS/giphy.gif" width="500"/>
 </div>
 
 <h3 align="center">I am a passionate full stack developer based in Morocco 🇲🇦. With a strong background in both front-end and back-end development, I strive to create innovative and user-friendly solutions for various projects.</h3>
